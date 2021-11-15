@@ -1,1 +1,1 @@
-# InheritnceLab
+# inheritanceLab
